@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "656390808211",
+    "project_id": "fresh-veg-app-6ca54",
+    "storage_bucket": "fresh-veg-app-6ca54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656390808211:android:2cdcb01fd91850f92d2366",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656390808211-fu9pb20eja6mqq1h682b945imrc507ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "abcdef123456789abcdef0123456789abcdef012"
+          }
+        },
+        {
+          "client_id": "656390808211-suag2m42uakh3mg3tkbrh5qgnos3gk9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAYiyIyafrjax8u3e8zi58t_BRx6bCJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656390808211-suag2m42uakh3mg3tkbrh5qgnos3gk9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656390808211-epkjf5ufvr56feme2g727rhgv9mb7ko3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
